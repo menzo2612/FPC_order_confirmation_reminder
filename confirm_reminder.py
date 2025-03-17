@@ -31,7 +31,7 @@ DESCRIPTION = (
     "📂 FPC плагины - https://t.me/menzo_files"
 )
 CREDITS = "@menzo2612"
-UUID = "9f9e0922-c391-478d-acf2-2513daec0a38"
+UUID = "db32bfd8-cb93-416a-91ca-8c0c7746dcfd"
 SETTINGS_PAGE = True
 
 CBT_TOGGLE_TIME_UNIT  = "ConfRem_ToggleTimeUnit"
